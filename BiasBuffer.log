@@ -1,0 +1,49 @@
+Circuit: * D:\URC\acoustics-sw8\LTSpice\BiasBuffer.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+Gmin = 2.85678e-006
+vernier = 0.666667
+vernier = 0.333333
+Gmin = 1.29485e-006
+vernier = 0.444444
+vernier = 0.592592
+Gmin = 4.19679e-007
+vernier = 0.790123
+vernier = 1
+Gmin = 7.52132e-008
+Gmin = 8.07595e-009
+Gmin = 8.67149e-010
+Gmin = 9.31094e-011
+Gmin = 9.99755e-012
+Gmin = 1.07348e-012
+Gmin = 1.15264e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Thu Sep 16 12:43:28 2021
+Total elapsed time: 2.031 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 276769
+traniter = 276056
+tranpoints = 138029
+accept = 93364
+rejected = 44665
+matrix size = 18
+fillins = 13
+solver = Normal
+Matrix Compiler1: 1.37 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.76 KB object code size  0.2/0.3/[0.2]
+
